@@ -11,7 +11,7 @@
   - .git/config : 특정 저장소에서만 적용   
 
    
-   
+
 ## Git Command 
     git init    # git 초기화. 쉽게 말해 해당 공간을 git으로 관리하겠다라고 선언하는 작업. .git 폴더가 생성 된다.
     git clone   # 저장소를 복사
